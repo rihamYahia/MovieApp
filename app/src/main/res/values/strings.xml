@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TvShowApp</string>
+    <string name="episodes">Episodes</string>
+    <string name="website">Website</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="search_for_movie">Search for movie</string>
+</resources>
